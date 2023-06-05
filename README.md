@@ -1,5 +1,5 @@
 # COMP 4447 Final Project
-This repository contains the notebook, files, and code for the final project
+This repository houses the notebook, files, and code pertaining to the final project, encompassing various stages such as data scraping, data cleaning, visualizations, and data analysis, all conducted using R.
 
 # Versions
 Python Version:
